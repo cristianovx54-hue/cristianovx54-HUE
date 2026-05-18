@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cristiano and I'm a really new programing student, from Brasil</p>
+<p align="left">My name is Cristiano and I'm a really new programing student, from Brasil.</p>
 
 ###
 
