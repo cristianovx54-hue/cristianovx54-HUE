@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Cristiano and I'm a really new programing student, from Brasil.</p>
+<p align="left">I lost my time making useless things on Linix,and I'm a new programing student.</p>
 
 ###
 
