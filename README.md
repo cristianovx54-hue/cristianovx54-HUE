@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">I break things to learn how they work.</h1>
 
 ###
 
